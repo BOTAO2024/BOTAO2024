@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Economics at USYD. 
 - 💞️ I’m looking to collaborate on some econometric projects. 
 - 📫 How to reach me ... Send email to botaozhao2024@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: He/Him/His/Mr.
+- ⚡ Fun fact: I'm lazy ~~~
 
 <!---
 BOTAO2024/BOTAO2024 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
